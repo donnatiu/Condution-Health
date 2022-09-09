@@ -1,6 +1,7 @@
 {
   "name": "Condution",
   "version": "1.2.0",
+  "homepage": "https://condution-health.web.app/",
   "dependencies": {
     "@capacitor-community/electron": "^3.0.1",
     "@capacitor/android": "^3.0.2",
